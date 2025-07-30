@@ -2,8 +2,7 @@
 
 🎓 Final-year AI & Data Science student | Mumbai University  
 💡 Exploring ML, Data Science, Full-Stack Development & Cybersecurity  
-📊 Recent Projects: Movie Recommender | AI Volunteer Platform | Blogging Site | visual context memory agent
-
+📊 Recent Projects: Movie Recommender | AI Volunteer Platform | Blogging Site | visual context memory agent<br>
 🛠️ Tech Stack: Python, Flask, ReactJS, MongoDB, MySQL, Pandas, scikit-learn  
 🌱 Currently learning: Data Analytics, Cloud (AWS Academy)
 
